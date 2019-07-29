@@ -1,0 +1,2 @@
+# translatebots
+Stephens translation bot
